@@ -10,7 +10,7 @@ Foco em layout limpo, experiência do usuário e facilidade de contato.
 - Template: HTML5 UP
 
 ## Preview
-Veja o site online: [Clique aqui] (https://lucaareas.github.io/barbershop-site/)
+Veja o site online: [Clique aqui](https://lucaareas.github.io/barbershop-site/)
 
 ## Como usar
 1. Clone o repositório:
